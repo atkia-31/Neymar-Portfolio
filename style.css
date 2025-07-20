@@ -1,0 +1,33 @@
+img {
+    width: 100px;
+    height: 300px;
+}
+
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+
+.header-section {
+    display: flex;
+}
+
+.header-area {
+    width: 50%;
+}
+
+.header-area img {
+    width: 70%;
+}
+
+a {
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-width: 10px;
+    border-style: groove;
+    border-color: blue;
+}
+
+span {
+    color: rgb(84, 207, 125);
+}
